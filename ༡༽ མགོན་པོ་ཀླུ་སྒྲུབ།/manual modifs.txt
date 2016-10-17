@@ -1,0 +1,27 @@
+1-གསོ་རིག།_སྦྱོར་བ་བརྒྱ་པ།
+note 304 deleted.
+
+1-དབུ་མ།_རྩོད་པ་བཟློག་པའི་འགྲེལ་པ།.xlsx
+note 325 is duplicate of last one. deleted and renumbered until the end.
+
+1-བསྟོད་ཚོགས།_དམྱལ་བ་ནས་འདོན་པ་ཞེས་བྱ་བ།
+note 13 removed.
+
+1-མདོ་སྡེ།_འཕགས་པ་སཱ་ལུ་ལྗང་པ་ཞེས་བྱ་བ།
+note 334 deleted
+note 609 deleted
+
+1-རྒྱུད།_དཔལ་གསང་བ་འདུས་པའི་རྒྱུད་ཀྱི་རྒྱུད་འགྲེལ་ཞེས་བྱ་བ།
+too many extra returns. this file is left aside
+
+1-རྒྱུད།_མགོན་པོ་བྱ་རོག་གདོང་གི་གཏོར་མདོས།
+note : there are many [] inside the file
+
+1-རྒྱུད།_འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ཕྱག་སྟོང་པའི་སྒྲུབ་ཐབས།
+note 86 removed
+
+1-རྒྱུད།_རྒྱུད་སྣ་ཚོགས་ལས་བཏུས་པའི་གཏོར་མའི་ཆོ་ག
+note 237 removed
+extra note between 711-712 removed
+
+
