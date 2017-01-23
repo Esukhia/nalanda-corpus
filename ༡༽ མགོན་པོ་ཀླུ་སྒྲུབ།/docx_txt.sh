@@ -10,7 +10,6 @@ do
   filename="${f#./ཡིག་ཆ་འདིར་ཡོད།/}"
   filename="${filename%.*}"
   echo "Converting $f"
-  #`docx2txt < $f > $filename.txt`
   `pandoc -f docx -t plain --wrap=preserve  $f | sed  '/^$/d' > ./csvtxt/$filename.txt`
   # uncomment this line to delete the source file.
   # rm $f
